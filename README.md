@@ -1,5 +1,4 @@
-https://github.com/chandansgowda/chandansgowda?tab=readme-ov-file#hi--im-chandan-s-gowda
-
+Hi I'm Sivanth M
 
 
 ## 🌐 Socials:
