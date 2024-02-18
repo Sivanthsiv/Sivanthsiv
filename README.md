@@ -1,5 +1,5 @@
-#                                                    Hi 👋, I'm Sivanth M
-I'm a Student 
+https://github.com/chandansgowda/chandansgowda?tab=readme-ov-file#hi--im-chandan-s-gowda
+
 
 
 ## 🌐 Socials:
