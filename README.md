@@ -1,8 +1,11 @@
 # Hi 👋, I'm Sivanth M
+
+[![](https://visitcount.itsvg.in/api?id=sivanthsiv&icon=1&color=6)](https://visitcount.itsvg.in)
+
 Student<br>Bachelor of Engineering <br>Information Science and Engineering <br>Vishveshvarya Technological University
 
 
-[![](https://visitcount.itsvg.in/api?id=sivanthsiv&icon=1&color=6)](https://visitcount.itsvg.in)
+
 
 
 
