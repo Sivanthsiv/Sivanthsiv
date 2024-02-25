@@ -1,6 +1,8 @@
   # Hi 👋, I'm Sivanth M
 
-[![](https://visitcount.itsvg.in/api?id=Sivanthsiv&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Sivanthsiv&label=Profile%20Views&color=6&icon=1&pretty=true" />
+</a>
 
 Student<br>Bachelor of Engineering <br>Information Science and Engineering <br>Vishveshvarya Technological University
 
@@ -19,5 +21,4 @@ Student<br>Bachelor of Engineering <br>Information Science and Engineering <br>V
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sivanthsiv&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanthsiv&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
